@@ -16,40 +16,48 @@
     },
     {
       "type": "material",
+      "blocktitle": "材料①",
       "sourceid": 1515,
+      "sourcename": "《论语·卫灵公》",
       "paragraphs": [
         {
-          "text": "①子曰:“躬自厚而薄责于人，则远怨矣。”（《论语·卫灵公》）",
+          "text": "子曰:“躬自厚而薄责于人，则远怨矣。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料②",
       "sourceid": 1429,
+      "sourcename": "《论语·宪问》",
       "paragraphs": [
         {
-          "text": "②子贡方【1】人。子曰:“赐也贤乎哉，夫我则不暇。”（《论语·宪问》）",
+          "text": "子贡方【1】人。子曰:“赐也贤乎哉，夫我则不暇。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料③",
       "sourceid": -1,
+      "sourcename": "朱熹《论语集注》",
       "paragraphs": [
         {
-          "text": "③责已厚，故身益修；责人薄，故人易从。所以人不得而怨之。（朱熹《论语集注》）",
+          "text": "责已厚，故身益修；责人薄，故人易从。所以人不得而怨之。",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料④",
       "sourceid": -1,
+      "sourcename": "钱穆《论语新解》",
       "paragraphs": [
         {
-          "text": "④责己厚，责人薄，可以无怨尤。诚能严于自治，亦复无暇责人。旧解此怨为人怨己，亦通。（钱穆《论语新解》）",
+          "text": "责己厚，责人薄，可以无怨尤。诚能严于自治，亦复无暇责人。旧解此怨为人怨己，亦通。",
           "format": {}
         }
       ]

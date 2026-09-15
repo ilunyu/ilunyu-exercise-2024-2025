@@ -16,50 +16,60 @@
     },
     {
       "type": "material",
+      "blocktitle": "材料①",
       "sourceid": 212,
+      "sourcename": "《论语·为政》",
       "paragraphs": [
         {
-          "text": "①子曰：“君子不器。”(《论语·为政》)",
+          "text": "子曰：“君子不器。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料②",
       "sourceid": 504,
+      "sourcename": "《论语·公冶长》",
       "paragraphs": [
         {
-          "text": "②子贡问曰：“赐也何如?”子曰：“女，器也。”曰：“何器也?”曰：“瑚琏【1】也。”(《论语·公冶长》)",
+          "text": "子贡问曰：“赐也何如?”子曰：“女，器也。”曰：“何器也?”曰：“瑚琏【1】也。",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料③",
       "sourceid": 608,
+      "sourcename": "《论语·雍也》",
       "paragraphs": [
         {
-          "text": "③（季康子）曰：“赐也可使从政也与?”曰：“赐也达，于从政乎何有?”(《论语·雍也》)",
+          "text": "（季康子）曰：“赐也可使从政也与?”曰：“赐也达，于从政乎何有?”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料④",
       "sourceid": 1428,
+      "sourcename": "《论语·宪问》",
       "paragraphs": [
         {
-          "text": "④子贡方【2】人。子曰：“赐也贤乎哉?夫我则不暇。”(《论语·宪问》)",
+          "text": "子贡方【2】人。子曰：“赐也贤乎哉?夫我则不暇。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料⑤",
       "sourceid": 1510,
+      "sourcename": "《论语·卫灵公》",
       "paragraphs": [
         {
-          "text": "⑤子贡问为仁。子曰：“工欲善其事，必先利其器。居是邦也，事其大夫之贤者，友其士之仁者。”(《论语·卫灵公》)",
+          "text": "子贡问为仁。子曰：“工欲善其事，必先利其器。居是邦也，事其大夫之贤者，友其士之仁者。”",
           "format": {
             "marks": {
               "underline": [
@@ -75,10 +85,12 @@
     },
     {
       "type": "material",
+      "blocktitle": "材料⑥",
       "sourceid": -1,
+      "sourcename": "陈祥道《论语全解》",
       "paragraphs": [
         {
-          "text": "⑥不为人之所器者而后能器人，为人之所器而器人，则非人之所宜。(陈祥道《论语全解》)",
+          "text": "不为人之所器者而后能器人，为人之所器而器人，则非人之所宜。",
           "format": {}
         }
       ]

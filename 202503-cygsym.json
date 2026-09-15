@@ -16,40 +16,48 @@
     },
     {
       "type": "material",
+      "blocktitle": "材料①",
       "sourceid": 304,
+      "sourcename": "《八佾》",
       "paragraphs": [
         {
-          "text": "①林放问礼之本。子曰：“大哉问!礼，与其奢也，宁俭；丧，与其易也，宁戚。”(《八佾》)",
+          "text": "林放问礼之本。子曰：“大哉问!礼，与其奢也，宁俭；丧，与其易也，宁戚。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料②",
       "sourceid": 317,
+      "sourcename": "《八佾》",
       "paragraphs": [
         {
-          "text": "②子贡欲去告朔之饩羊【1】。子曰：“赐也！尔爱其羊，我爱其礼。”(《八佾》)",
+          "text": "子贡欲去告朔之饩羊【1】。子曰：“赐也！尔爱其羊，我爱其礼。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料③",
       "sourceid": 303,
+      "sourcename": "《八佾》",
       "paragraphs": [
         {
-          "text": "③子曰：“人而不仁，如礼何？人而不仁，如乐何？”(《八佾》)",
+          "text": "子曰：“人而不仁，如礼何？人而不仁，如乐何？”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料④",
       "sourceid": 903,
+      "sourcename": "《子罕》",
       "paragraphs": [
         {
-          "text": "④子曰：“麻冕，礼也；今也纯【2】，俭，吾从众。拜下，礼也；今拜乎上【3】，泰【4】也。虽违众，吾从下。”(《子罕》)",
+          "text": "子曰：“麻冕，礼也；今也纯【2】，俭，吾从众。拜下，礼也；今拜乎上【3】，泰【4】也。虽违众，吾从下。”",
           "format": {}
         }
       ]

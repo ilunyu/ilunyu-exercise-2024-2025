@@ -16,60 +16,72 @@
     },
     {
       "type": "material",
+      "blocktitle": "材料①",
       "sourceid": 1709,
+      "sourcename": "《论语 · 阳货》",
       "paragraphs": [
         {
-          "text": "①子曰：“小子何莫学夫《诗》?《诗》可以兴，可以观，可以群，可以怨。迩之事父，远之事君。多识于鸟兽草木之名。”（《论语 · 阳货》）",
+          "text": "子曰：“小子何莫学夫《诗》?《诗》可以兴，可以观，可以群，可以怨。迩之事父，远之事君。多识于鸟兽草木之名。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料②",
       "sourceid": 1710,
+      "sourcename": "《论语 · 阳货》",
       "paragraphs": [
         {
-          "text": "②子谓伯鱼曰：“女为《周南》《召南》矣乎？人而不为《周南》《召南》，其犹正墙面而立也与！（《论语 · 阳货》）",
+          "text": "子谓伯鱼曰：“女为《周南》《召南》矣乎？人而不为《周南》《召南》，其犹正墙面而立也与！",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料③",
       "sourceid": 718,
+      "sourcename": "《论语 ·述而》",
       "paragraphs": [
         {
-          "text": "③子所雅言，《诗》《书》、执礼，皆雅言也。（《论语 ·述而》）",
+          "text": "子所雅言，《诗》《书》、执礼，皆雅言也。",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料④",
       "sourceid": 320,
+      "sourcename": "《论语 ·八佾》",
       "paragraphs": [
         {
-          "text": "④子曰：“《关雎》，乐而不淫，哀而不伤。”（《论语 ·八佾》）",
+          "text": "子曰：“《关雎》，乐而不淫，哀而不伤。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料⑤",
       "sourceid": 808,
+      "sourcename": "《论语 ·泰伯》",
       "paragraphs": [
         {
-          "text": "⑤子曰：“兴于《诗》，立于礼，成于乐。”（《论语 ·泰伯》）",
+          "text": "子曰：“兴于《诗》，立于礼，成于乐。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料⑥",
       "sourceid": -1,
+      "sourcename": "《史记 · 孔子世家》",
       "paragraphs": [
         {
-          "text": "⑥三百五篇孔子皆弦歌之，以求合《韶》《武》《雅》《颂》之音。礼乐自此可得而述， 以备王道，成六艺。（《史记 · 孔子世家》）",
+          "text": "三百五篇孔子皆弦歌之，以求合《韶》《武》《雅》《颂》之音。礼乐自此可得而述， 以备王道，成六艺。",
           "format": {}
         }
       ]
